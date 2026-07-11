@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
+
+**MSc Computational Statistics & Machine Learning @ UCL (Sep 2026)**
+Data Engineer → ML Practitioner | London
+
+---
+
+🔭 Currently building: [your first project name here]
+🌱 Learning: PyTorch · Probabilistic ML · Bayesian methods
+💼 Background: [X] years data engineering (Python, SQL, Spark, dbt)
+🎯 Looking for: ML Engineering internship, Summer 2027
+
+---
+
+**Tech stack**
+Python · PyTorch · SQL · Docker · Git · Spark · dbt
+
+---
+
+📫 [linkedin.com/in/mak-dedic](https://linkedin.com/in/mak-dedic)
 
 <!--
 **makdedic/makdedic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
