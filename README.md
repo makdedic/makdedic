@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Mak
 
 **MSc Computational Statistics & Machine Learning @ UCL (Sep 2026)**
 Data Engineer → ML Practitioner | London
