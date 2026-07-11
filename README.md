@@ -13,7 +13,7 @@ Data Engineer → ML Practitioner | London
 ---
 
 **Tech stack**
-Python · PyTorch · SQL · Docker · Git · Spark · dbt
+Python · PyTorch · SQL · Docker · Git · dbt
 
 ---
 
