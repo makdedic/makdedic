@@ -5,7 +5,7 @@ Data Engineer → ML Engineer | London
 
 ---
 
-🔭 Currently building: 
+🔭 Currently building: FIFA World Cup Predictor ⚽️ 
 🌱 Learning: PyTorch · Probabilistic ML · Bayesian methods
 💼 Background: 3 years data engineering (Python, SQL, Spark, dbt)
 🎯 Looking for: ML Engineering internship, Summer 2027
