@@ -1,6 +1,6 @@
 # Hi, I'm Mak!
 
-**MSc Computational Statistics & Machine Learning @ UCL (Sep 2026)**  
+**MSc Computational Statistics & Machine Learning @ UCL**  
 Data Engineer → ML Engineer | London
 
 ---
